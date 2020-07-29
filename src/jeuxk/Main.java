@@ -7,9 +7,10 @@ public class Main {
 	public static void main(String[] arg) {
 	int a ;
 	int b ;
+	int c; 
 		
 		JFrame fenetre = new JFrame("mario 2018");//créer un Jframe
-		  fenetre.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		  fenetre.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //fenetre
 		  fenetre.setSize(700, 360);
 		  fenetre.setLocationRelativeTo(null);
 		  fenetre.setResizable(false);
